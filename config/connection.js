@@ -11,10 +11,10 @@ if (process.env.JAWSDB_URL) {
 	// DB is local on localhost
 	connection = mysql.createConnection({
 
-		host: 'us-cdbr-iron-east-04.cleardb.net',
-		user: 'b22c68907ec6bb',
-		password: 'cba8c192',
-		database: 'heroku_d0b24e6ebbeab17'
+		host: 'ocvwlym0zv3tcn68.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+		user: 'ls59vqafvpcftd1g',
+		password: 'g6t3ns11nfks4598',
+		database: 'k997ejn4rvwma0hg'
 	})
 };
 
